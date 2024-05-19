@@ -12,7 +12,7 @@ The project performs the following tasks:
 6. Analysis: Calculating and displaying the mean values of key characteristics for each cluster.
 ## File Descriptions
 - penguins.csv: The dataset containing penguin measurements.
-- penguin_clustering.py: The main script that performs data cleaning, EDA, PCA, clustering, and analysis.
+- penguin_clustering.jpynd: The main script that performs data cleaning, EDA, PCA, clustering, and analysis.
 - README.md: This file, which provides an overview of the project.
 ## Data Cleaning
 - Rows with missing values are removed.
